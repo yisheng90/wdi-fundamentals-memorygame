@@ -16,6 +16,11 @@
 	
 }
 
+img {
+  height: 200px;
+  width: 150px;
+}
+
 h1 {
 	color: rgb(2,132,130);
 }
